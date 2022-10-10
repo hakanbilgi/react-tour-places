@@ -1,0 +1,17 @@
+.card {
+    width: 510px;
+    height: 450px;
+    overflow: hidden;
+}
+.image > div {
+    width: 480px;
+    height: 330px;
+}
+.desc {
+    width: 480px;
+    margin: 0 auto;
+}
+.desc > div {
+    width: 480px;
+    height: 330px;
+}
